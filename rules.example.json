@@ -1,32 +1,7 @@
 {
-  "DWNews":{
-    "rss_source": "https://rsshub.app/dwnews/yaowen/global",
-    "identity": "WDNews@x61.uk",
-    "extra_content": "#News"
-  },
-  "NHK": {
-    "rss_source": "https://rsshub.app/nhk/news_web_easy",
-    "identity": "NHK_Easybot@x61.uk",
-    "extra_content": ""
-  },
-  "SoliDot": {
-    "rss_source": "https://rsshub.app/solidot/www",
-    "identity": "misskey.dev",
-    "extra_content": ""
-  },
-  "ZaoBao": {
-    "rss_source": "https://rsshub.app/zaobao/realtime/china",
-    "identity": "ZaobaoBot@x61.uk",
-    "extra_content": "#News"
-  },
-  "NIKKEI": {
-    "rss_source": "https://rsshub.app/nikkei/index",
-    "identity": "NIKKEI@x61.uk",
-    "extra_content": "#News"
-  },
-  "Asahi": {
-    "rss_source": "https://rsshub.app/asahichinese-j/whatsnew",
-    "identity": "AsahiBot@x61.uk",
-    "extra_content": "#News"
-  }
+  "SISGroup amebaownd":{
+    "rss_source": "https://notify.sisgroup.cyou/rss.xml",
+    "identity": "sis@sushi.ski",
+    "extra_content": "#SISGroup"
+
 }
