@@ -1,16 +1,7 @@
 {
-  "misskey.io": {
-    "name": "misskey.io",
-    "url" : "https://misskey.io",
-    "token": "9v1t2poJeEh5RI74VqBCzJLHk9N6Weds",
+  "sushi.ski": {
+    "name": "sushi.ski",
+    "url" : "https://sushi.ski",
+    "token": "WwbLvyrflGtks2f28xIjxBa90eQZAkxO",
     "visibility": "specified",
-    "channel": "8hrcz5rdvp"
-  },
-  "misskey.dev": {
-    "name": "misskey.dev",
-    "url" : "https://misskey.dev",
-    "token": "qnZl1OmgnAlTRbRO",
-    "visibility": "public",
-    "channel": false
-  }
 }
